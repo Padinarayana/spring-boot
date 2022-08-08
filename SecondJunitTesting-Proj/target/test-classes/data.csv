@@ -1,0 +1,8 @@
+num,expected
+"10	",even
+"22	",even
+"12	",even
+"11	",odd
+"22	",even
+"14	",even
+"17	",odd

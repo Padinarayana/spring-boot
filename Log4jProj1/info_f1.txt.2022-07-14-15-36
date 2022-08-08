@@ -1,0 +1,8 @@
+2022-07-14 15:35:56.787 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc:StudentTest 
+2022-07-14 15:35:56.787 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc:StudentTest:: main start 
+2022-07-14 15:35:57.308 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc.studentTest1::using getString method change accordingly.. 
+2022-07-14 15:35:57.311 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc:StudentTest:: main end 
+2022-07-14 15:36:32.745 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc:StudentTest 
+2022-07-14 15:36:32.745 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc:StudentTest:: main start 
+2022-07-14 15:36:33.128 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc.studentTest1::using getString method change accordingly.. 
+2022-07-14 15:36:33.131 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc:StudentTest:: main end 

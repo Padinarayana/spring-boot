@@ -1,0 +1,4 @@
+2022-07-14 15:37:29.263 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc:StudentTest 
+2022-07-14 15:37:29.267 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc:StudentTest:: main start 
+2022-07-14 15:37:29.642 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc.studentTest1::using getString method change accordingly.. 
+2022-07-14 15:37:29.643 [main] in.sunera.jdbc.StudentTest2 - in.sunera.jdbc:StudentTest:: main end 

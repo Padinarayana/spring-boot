@@ -1,0 +1,37 @@
+spring:
+  profiles:
+    active: dev
+
+    
+    
+---
+server:
+  port: 9090
+spring:
+  profiles:
+  - dev
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    password: system
+    url: jdbc:oracle:thin:@localhost:1521/ORCL
+    username: System
+  mvc:
+    view:
+      prefix: /pages/
+      suffix: .jsp
+---
+
+server:
+  port: 9090
+spring:
+  profiles:
+  - dev
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    password: system1
+    url: jdbc:oracle:thin:@localhost:1521/ORCL
+    username: System1
+  mvc:
+    view:
+      prefix: /pages/
+      suffix: .jsp

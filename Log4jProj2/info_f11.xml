@@ -1,0 +1,16 @@
+<log4j:event logger="in.sunera.jdbc.StudentTest2" timestamp="1657796822322" level="INFO" thread="main">
+<log4j:message><![CDATA[in.sunera.jdbc:StudentTest]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="in.sunera.jdbc.StudentTest2" timestamp="1657796822325" level="DEBUG" thread="main">
+<log4j:message><![CDATA[in.sunera.jdbc:StudentTest:: main start]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="in.sunera.jdbc.StudentTest2" timestamp="1657796823022" level="WARN" thread="main">
+<log4j:message><![CDATA[in.sunera.jdbc.studentTest1::using getString method change accordingly..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="in.sunera.jdbc.StudentTest2" timestamp="1657796823023" level="DEBUG" thread="main">
+<log4j:message><![CDATA[in.sunera.jdbc:StudentTest:: main end]]></log4j:message>
+</log4j:event>
+

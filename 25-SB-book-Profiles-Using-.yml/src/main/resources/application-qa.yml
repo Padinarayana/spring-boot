@@ -1,0 +1,12 @@
+server:
+  port: 9090
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    password: system1
+    url: jdbc:oracle:thin:@localhost:1521/ORCL
+    username: System1
+  mvc:
+    view:
+      prefix: /pages/
+      suffix: .jsp
